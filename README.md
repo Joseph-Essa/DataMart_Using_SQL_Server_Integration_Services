@@ -98,17 +98,16 @@ The data mart enables several key analyses:
 3. Monitor inventory by product categories and subcategories
 4. Generate reports on product classification and storage
 
-<!-- ## 📊 Power BI Visualizations
+ ## 📊 Power BI Visualizations
 
 ### Overview Dashboard
-![Overview Dashboard](path_to_overview_dashboard.png)
+![Overview Dashboard](../Integration%20Services%20Project1/PowerBI/screenshots/Screenshot%202025-01-13%20011636.png)
 This dashboard provides a high-level view of:
 - Total inventory by category
 - Product distribution across storage locations
 - Top products by quantity
-- Inventory trends over time
 
-### Inventory Analysis
+<!--### Inventory Analysis
 ![Inventory Analysis](path_to_inventory_dashboard.png)
 Detailed inventory metrics including:
 - Heat maps of storage utilization
