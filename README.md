@@ -68,11 +68,11 @@ The data mart follows a star schema design with:
 ```
 DataMart/
 ├── Integration Services Project1/
-│   └── DataMart.dtproj           # Main SSIS project file
+│   └── DataMart.dtproj           
 ├── Solution Files/
-│   └── DataMart.sln              # Solution configuration
+│   └── DataMart.sln              
 └── PowerBI/
-    └── InventoryAnalysis.pbit    # Power BI template file
+    └── InventoryAnalysis.pbit    
 ```
 
 ## 🚀 Getting Started
