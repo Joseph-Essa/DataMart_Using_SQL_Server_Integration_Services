@@ -101,7 +101,7 @@ The data mart enables several key analyses:
  ## 📊 Power BI Visualizations
 
 ### Overview Dashboard
-![Overview Dashboard](../Integration%20Services%20Project1/PowerBI/screenshots/Screenshot%202025-01-13%20011636.png)
+![](./PowerBI/screenshots/Screenshot%202025-01-13%20011636.png)
 This dashboard provides a high-level view of:
 - Total inventory by category
 - Product distribution across storage locations
