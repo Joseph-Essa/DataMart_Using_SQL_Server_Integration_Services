@@ -107,15 +107,15 @@ This dashboard provides a high-level view of:
 - Product distribution across storage locations
 - Top products by quantity
 
-<!--### Inventory Analysis
-![Inventory Analysis](path_to_inventory_dashboard.png)
+### Inventory Analysis
+![Inventory Analysis](./PowerBI/screenshots/Screenshot%202025-01-25%20214915.png)
 Detailed inventory metrics including:
 - Heat maps of storage utilization
 - Bin and shelf optimization
 - Stock level warnings
 - Category-wise distribution
 
-### Product Categories
+<!--### Product Categories
 ![Product Categories](path_to_categories_dashboard.png)
 Breakdown of products by:
 - Main categories
